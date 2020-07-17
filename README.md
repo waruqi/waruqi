@@ -12,14 +12,17 @@
 <a href="https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
   <img align="left" alt="ruki's gitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitter.svg" />
 </a>
+<a href="mailto:waruqi@gmail.com">
+  <img align="left" alt="ruki's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://jq.qq.com/?_wv=1027&k=5hpwWFv">
   <img align="left" alt="ruki's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" />
 </a>
 <a href="https://tboox.org/static/img/weixin_public.jpg">
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" />
 </a>
-<a href="mailto:waruqi@gmail.com">
-  <img align="left" alt="ruki's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://www.zhihu.com/people/waruqi">
+  <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
 </a>
 
 <br/>
