@@ -37,6 +37,13 @@
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xmake-io&repo=xmake-vscode)](https://github.com/xmake-io/xmake-vscode)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xmake-io&repo=xmake-repo)](https://github.com/xmake-io/xmake-repo)
 
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xmake-io&repo=xmake-gradle)](https://github.com/xmake-io/xmake-gradle)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xmake-io&repo=xmake-idea)](https://github.com/xmake-io/xmake-idea)
+
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xmake-io&repo=xmake-sublime)](https://github.com/xmake-io/xmake-sublime)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=xmake-io&repo=awesome-xmake)](https://github.com/xmake-io/awesome-xmake)
+
+
 ## [hack0z](https://github.com/hack0z)
 
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=hack0z&repo=luject)](https://github.com/hack0z/luject)
