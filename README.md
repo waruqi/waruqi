@@ -1,18 +1,18 @@
 ### Hi there, I'm [Ruki!](https://tboox.org) 👋
 
-<a href="https://twitter.com/waruqi" target="_blank">
+<a href="https://twitter.com/waruqi">
   <img align="left" alt="ruki's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://t.me/tbooxorg" target="_blank">
+<a href="https://t.me/tbooxorg">
   <img align="left" alt="ruki's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.reddit.com/user/waruqi/" target="_blank">
+<a href="https://www.reddit.com/user/waruqi/">
   <img align="left" alt="ruki's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank">
+<a href="https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
   <img align="left" alt="ruki's gitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitter.svg" />
 </a>
-<a href="https://jq.qq.com/?_wv=1027&k=5hpwWFv" target="_blank">
+<a href="https://jq.qq.com/?_wv=1027&k=5hpwWFv">
   <img align="left" alt="ruki's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" />
 </a>
 
@@ -21,7 +21,7 @@
 
 Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboox](https://github.com/tboox) and [@xmake-io](https://github.com/xmake-io) Open Source Groups. I love C & Lua forever.❤️ 
 
-<a href="https://xmake.io" target="_blank" >
+<a href="https://xmake.io">
   <img align="right" width="120" height="120" alt="xmake-logo" src="https://tboox.org/static/img/xmake/logo256c.png" />
 </a>
 
