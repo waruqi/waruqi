@@ -23,7 +23,7 @@ Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboo
 
 **Talking about Personal Stuffs:**
 
-- 💻 I'm working on the following projects. 
+- 👨🏽‍💻 I'm working on the following projects. 
 - ❤️ If my projects have helped you, please consider [sponsoring me](https://xmake.io/#/about/sponsor)  ~~ Thank you! ❤️
 
 ## Pinned
