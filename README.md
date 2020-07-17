@@ -20,9 +20,11 @@
 
 <br/>
 
+Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboox](https://github.com/tboox) and [@xmake-io](https://github.com/xmake-io) open source groups. I love C & Lua forever.❤️ 
+
 **Talking about Personal Stuffs:**
 
-- 🔥 I'm working on the following projects. 
+- 💻 I'm working on the following projects. 
 - ❤️ If my projects have helped you, please consider [sponsoring me](https://xmake.io/#/about/sponsor)  ~~ Thank you! ❤️
 
 <br/>
