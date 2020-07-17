@@ -4,19 +4,18 @@
 - ❤️ If my projects have helped you, please consider [sponsoring me](https://xmake.io/#/about/sponsor)  ~~ Thank you! ❤️
 
 <a href="https://www.reddit.com/r/tboox/">
-  <img src="https://img.shields.io/badge/chat-on%20reddit-ff3f34.svg?style=flat-square" alt="Reddit" />
+  <img src="https://img.shields.io/badge/chat-on%20reddit-ff3f34.svg?style=flat-square&logo=reddit" alt="Reddit" />
 </a>
 <a href="https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-  <img src="https://img.shields.io/gitter/room/tboox/tboox.svg?style=flat-square&colorB=96c312" alt="Gitter" />
+  <img src="https://img.shields.io/gitter/room/tboox/tboox.svg?style=flat-square&colorB=96c312&logo=gitter" alt="Gitter" />
 </a>
 <a href="https://t.me/tbooxorg">
-  <img src="https://img.shields.io/badge/chat-on%20telegram-blue.svg?style=flat-square" alt="Telegram" />
+  <img src="https://img.shields.io/badge/chat-on%20telegram-blue.svg?style=flat-square&logo=telegram" alt="Telegram" />
 </a>
 <a href="https://jq.qq.com/?_wv=1027&k=5hpwWFv">
-  <img src="https://img.shields.io/badge/chat-on%20QQ-ff69b4.svg?style=flat-square" alt="QQ" />
+  <img src="https://img.shields.io/badge/chat-on%20QQ-ff69b4.svg?style=flat-square&logo=tencent qq" alt="QQ" />
 </a>
 
-<br />
 <br />
 
 ## Pinned
