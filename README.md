@@ -18,6 +18,9 @@
 <a href="https://tboox.org/static/img/weixin_public.jpg">
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" />
 </a>
+<a href="mailto:waruqi@gmail.com">
+  <img align="left" alt="ruki's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br/>
 <br/>
