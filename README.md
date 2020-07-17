@@ -1,22 +1,29 @@
 ### Hi there, I'm [Ruki!](https://tboox.org) 👋
 
+<br/>
+
+<a href="https://twitter.com/waruqi">
+  <img align="left" alt="ruki's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/tbooxorg">
+  <img align="left" alt="ruki's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.reddit.com/user/waruqi/">
+  <img align="left" alt="ruki's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+  <img align="left" alt="ruki's gitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitter.svg" />
+</a>
+<a href="https://jq.qq.com/?_wv=1027&k=5hpwWFv">
+  <img align="left" alt="ruki's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" />
+</a>
+
+<br/>
+
 - 🔥 I'm working on the following projects. 
 - ❤️ If my projects have helped you, please consider [sponsoring me](https://xmake.io/#/about/sponsor)  ~~ Thank you! ❤️
 
-<a href="https://www.reddit.com/r/tboox/">
-  <img src="https://img.shields.io/badge/chat-on%20reddit-ff3f34.svg?style=flat-square&logo=reddit" alt="Reddit" />
-</a>
-<a href="https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-  <img src="https://img.shields.io/gitter/room/tboox/tboox.svg?style=flat-square&colorB=96c312&logo=gitter" alt="Gitter" />
-</a>
-<a href="https://t.me/tbooxorg">
-  <img src="https://img.shields.io/badge/chat-on%20telegram-blue.svg?style=flat-square&logo=telegram" alt="Telegram" />
-</a>
-<a href="https://jq.qq.com/?_wv=1027&k=5hpwWFv">
-  <img src="https://img.shields.io/badge/chat-on%20QQ-ff69b4.svg?style=flat-square&logo=tencent%20qq" alt="QQ" />
-</a>
-
-<br />
+<br/>
 
 ## Pinned
 
