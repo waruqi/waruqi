@@ -1,7 +1,5 @@
 ### Hi there, I'm [Ruki!](https://tboox.org) 👋
 
-<br/>
-
 <a href="https://twitter.com/waruqi">
   <img align="left" alt="ruki's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,7 +19,7 @@
 <br/>
 <br/>
 
-Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboox](https://github.com/tboox) and [@xmake-io](https://github.com/xmake-io) open source groups. I love C & Lua forever.❤️ 
+Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboox](https://github.com/tboox) and [@xmake-io](https://github.com/xmake-io) Open Source Groups. I love C & Lua forever.❤️ 
 
 **Talking about Personal Stuffs:**
 
