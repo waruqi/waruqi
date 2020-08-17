@@ -1,4 +1,4 @@
-### Hi there, I'm [Ruki!](https://tboox.org) 👋
+### Hi there, I'm [Ruki!](https://twitter.com/waruqi) 👋
 
 <a href="https://twitter.com/waruqi">
   <img align="left" alt="ruki's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
