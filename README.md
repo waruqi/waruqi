@@ -43,9 +43,6 @@ Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboo
 - ❤️ If my projects have helped you, please consider [sponsoring me](https://xmake.io/#/about/sponsor)  ~~ Thank you! ❤️
 - 👏 Welcome to join our [community](https://xmake.io/#/about/contact). 
 
-
-[![](https://raw.githubusercontent.com/waruqi/waruqi/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/waruqi)  
-
 ## Pinned
 
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=tbox)](https://github.com/tboox/tbox)
