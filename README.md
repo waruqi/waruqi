@@ -24,7 +24,7 @@
 <a href="https://www.zhihu.com/people/waruqi">
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
 </a>
-<a href="https://discord.gg/aY7RVeKdG7">
+<a href="https://discord.gg/xmake">
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
