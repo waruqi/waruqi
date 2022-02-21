@@ -30,7 +30,9 @@
 <a href="https://discord.gg/xmake">
   <img align="left" alt="ruki's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-
+<a href="https://www.youtube.com/channel/UCVTDno2sLmkNe0KjpmpnY5g">
+  <img align="left" alt="ruki's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <br/>
 <br/>
 
