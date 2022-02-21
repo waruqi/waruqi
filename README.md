@@ -22,10 +22,13 @@
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" />
 </a>
 <a href="https://www.zhihu.com/people/waruqi">
-  <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+  <img align="left" alt="ruki's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+</a>
+<a href="https://space.bilibili.com/2058574066">
+  <img align="left" alt="ruki's Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
 <a href="https://discord.gg/xmake">
-  <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="ruki's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 <br/>
