@@ -59,7 +59,7 @@ Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [@tboo
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=ltui)](https://github.com/tboox/ltui)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=vm86)](https://github.com/tboox/vm86)
 
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=gbox)](https://github.com/tboox/gbox)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=lanox2d&repo=lanox2d)](https://github.com/lanox2d/lanox2d)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=dexbox)](https://github.com/tboox/dexbox)
 
 ## [xmake-io](https://github.com/xmake-io)
