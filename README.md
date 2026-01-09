@@ -36,7 +36,7 @@
  <br/> 
  <br/> 
  
- Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [tboox](https://github.com/tboox) and [xmake-io](https://github.com/xmake-io) Open Source Groups. I love C & Lua forever.❤️ 
+ Hi, I'm Ruki, a Full Stack Developer 🚀 from China. 🔥 I'm Creator of [xmake-io](https://github.com/xmake-io) and [tboox](https://github.com/tboox) Open Source Groups. I love C & Lua forever.❤️ 
  
  <a href="https://xmake.io"> 
    <img align="right" width="120" height="120" alt="xmake-logo" src="https://xmake.io/assets/img/logo.png" /> 
